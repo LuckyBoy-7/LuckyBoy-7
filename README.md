@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 * [b站](https://space.bilibili.com/486784525): 主要放游戏流程演示和一些杂的视频
 * [itch](https://lucky-boy7.itch.io/): 游戏托管平台
 * QQ: 3079351998
+* [Ludum Dare](https://ldjam.com/users/look-for-happiness/games): 白月光 Game Jam
